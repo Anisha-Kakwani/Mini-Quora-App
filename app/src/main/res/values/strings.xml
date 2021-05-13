@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Midterm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="passwordfield_hint">Password</string>
+    <string name="emailfield_hint">Email</string>
+    <string name="login_label">Login</string>
+    <string name="createNewAccount_label">Create New Account</string>
+    <string name="toast_mandatory">All fields are mandatory</string>
+    <string name="toast_invalid">Invalid Credentials</string>
+    <string name="toast_existing_email">Email already exists</string>
+    <string name="toast_error">Error! Something went wrong</string>
+    <string name="submit_label">Submit</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="namefield_hint">Name</string>
+    <string name="register_account_label">Register Account</string>
+    <string name="logOut_label">Log Out</string>
+    <string name="forum_title_label">Forum Title</string>
+    <string name="forum_description_label">Forum Description</string>
+    <string name="new_forum_label">New Forum</string>
+    <string name="forums_label">Forums</string>
+    <string name="likes_label">Likes</string>
+    <string name="post">Post</string>
+    <string name="comment">Comments</string>
+    <string name="commentWrite"> Write Comment</string>
+    <string name="forum_label">Forum</string>
+</resources>
